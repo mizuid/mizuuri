@@ -7,14 +7,20 @@ const RenderPage = () => (
     <DocumentHead />
 
     <div>
-      <h2>真っ赤な空を見ただろうか！</h2>
-      <p>理屈ばかりこねまわして　すっかり冷めた胸の奥が</p>
-      <p>ただ一度の微笑みで</p>
-      <p>こんなに見事に燃えるとは</p>
+      <h2>Man shall not live by bread alone.</h2>
+      <p>霜つききたり</p>
+      <p>木ぬれをそむると</p>
+      <p>おもひしものを</p>
+      <p>庭にあづまやの</p>
+      <p>遠見をそめ</p>
+      <p>うすべにさせる</p>
+      <p>魚をそめ</p>
+      <p>わかるるきみの</p>  
+      <p>くちをそめ</p>
       <p>
-        kaminarigumo-official-blog powered by{' '}
-        <ExtLink href="http://www.kaminarigumo.com/blog/">
-          kaminarigumo/official-blog
+        Momidi written by{' '}
+        <ExtLink href="https://www.aozora.gr.jp/cards/000067/files/53636_44277.html">
+          HagiwaraSakutaro/AozoraBunko
         </ExtLink>
       </p>
     </div>
